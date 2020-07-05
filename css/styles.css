@@ -50,3 +50,9 @@ header h2 {
     background-image: linear-gradient(#CEC8FF, White);
     padding: 20px 0;
 }
+
+#carouselButton{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
